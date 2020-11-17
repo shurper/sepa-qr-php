@@ -18,7 +18,7 @@ class SepaQr extends QrCode
     const ISO8859_5 = 5;
     const ISO8859_7 = 6;
     const ISO8859_10 = 7;
-    const ISO8859_15 = 8;
+    const ISO8859_15 = 8;//
 
     private $sepaValues = array(
         'serviceTag' => 'BCD',
